@@ -91,4 +91,4 @@ Updates the Imam name of an existing mosque.
 Displays the selected mosque location using its coordinates.
 
 
-Amani Ibrahim Alnafisah
+
