@@ -1,4 +1,3 @@
-
 # Mosques Management System
 
 ## Description
